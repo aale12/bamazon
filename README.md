@@ -16,3 +16,5 @@ Inventory Management App using MySQL and Node.js
     * Restock items that are running low
   * Add New Product:
     * Add a new product to the store!
+
+[click here to see a preview here.](https://i.imgur.com/98SbH1X.gifv)

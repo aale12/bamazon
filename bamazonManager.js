@@ -56,6 +56,7 @@ ${output}`);
 }
 
 function addInventory() {
+  const departments = [];
   connection.query('SELECT * FROM products', (err, res) => {
     if (err) throw (err);
     const items = [];
